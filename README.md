@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Family](./family.jpeg)
+![Family](./family1.jpeg)
 
 
-    I am Tanvir Rahman Tonoy, a very ambitious student from Dhaka, Bangladesh. From my childhood, I was curious about many facts that inspired me to learn more about science and technology. I completed my higher secondary education in 2023 with a focus on science and got excellent academic results. Not only that, I was always listed in the top 5% best student list in my pre-school and school period. I also cleared all the public exams SSC, and HSC with greater excellence. Those exams define that I’m good at mathematics and problem-solving parts.  Those facts alongside my interest in computers and technology, encouraged me to research more coding and solving real world problems. I'm here to contribute and collaborate with others.
+I am Tanvir Rahman Tonoy, a very ambitious student from Dhaka, Bangladesh. From my childhood, I was curious about many facts that inspired me to learn more about science and technology. I completed my higher secondary education in 2023 with a focus on science and got excellent academic results. Not only that, I was always listed in the top 5% best student list in my pre-school and school period. I also cleared all the public exams SSC, and HSC with greater excellence. Those exams define that I’m good at mathematics and problem-solving parts.  Those facts alongside my interest in computers and technology, encouraged me to research more coding and solving real world problems. I'm here to contribute and collaborate with others.
 
 ![My deeds](./developer.svg)
 
