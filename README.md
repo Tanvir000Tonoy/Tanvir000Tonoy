@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Family](./family.jpeg)
-```
-Hello, I'm Tanvir Rahman Tonoy, the handsome one!
 
-I'm a passionate developer with a keen eye for detail and a drive for excellence. Always eager to learn and collaborate, I bring a positive and energetic vibe to every project. I always try my best.
-```
+
+    I am Tanvir Rahman Tonoy, a very ambitious student from Dhaka, Bangladesh. From my childhood, I was curious about many facts that inspired me to learn more about science and technology. I completed my higher secondary education in 2023 with a focus on science and got excellent academic results. Not only that, I was always listed in the top 5% best student list in my pre-school and school period. I also cleared all the public exams SSC, and HSC with greater excellence. Those exams define that I’m good at mathematics and problem-solving parts.  Those facts alongside my interest in computers and technology, encouraged me to research more coding and solving real world problems. I'm here to contribute and collaborate with others.
+
 ![My deeds](./developer.svg)
 
 
