@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 ![Family](./AllAroundMe.jpg)
 
 
-I am Tanvir Rahman Tonoy, a very ambitious student from Dhaka, Bangladesh. From my childhood, I was curious about many facts that inspired me to learn more about science and technology. I completed my higher secondary education in 2023 with a focus on science and got excellent academic results. Not only that, I was always listed in the top 5% best student list in my pre-school and school period. I also cleared all the public exams SSC, and HSC with greater excellence. Those exams define that I’m good at mathematics and problem-solving parts.  Those facts alongside my interest in computers and technology, encouraged me to research more coding and solving real world problems. I'm here to contribute and collaborate with others.
+I am Tanvir Rahman Tonoy, an ambitious student from Dhaka, Bangladesh, with a lifelong passion for science and technology. From an early age, my curiosity about the world around me fueled my desire to explore and learn more about these fields. I completed my higher secondary education in 2023 with a focus on science, achieving outstanding academic results. Throughout my academic journey, I consistently ranked among the top 5% of students during both pre-school and school, excelling in mathematics and problem-solving. 
+
+I successfully passed all major public examinations, including SSC and HSC, with exceptional grades, further showcasing my aptitude in analytical and logical thinking. My fascination with computers and technology has driven me to delve deeper into coding and develop solutions for real-world challenges. I am eager to contribute my skills, collaborate with like-minded individuals, and make a meaningful impact in the field of technology.
 
 ![My deeds](./developer.svg)
 
