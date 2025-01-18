@@ -19,6 +19,5 @@ Hello, I'm Tanvir Rahman Tonoy, the handsome one!
 I'm a passionate developer with a keen eye for detail and a drive for excellence. Always eager to learn and collaborate, I bring a positive and energetic vibe to every project. I always try my best.
 ```
 ![My deeds](./developer.svg)
-![xyz]()
 
 
