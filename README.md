@@ -21,7 +21,7 @@ I successfully passed all major public examinations, including SSC and HSC, with
 
 Near my in the right hand side it's Shimul Sarker one of my buddy. We used to study together in school period. We spent a lifetime together talking about technology and innovation. Right after that it's Bandhan Sarker , a very helpful personal to be honest. He accompanied me in alomst all path I took from my high-school to college and now in my overseas education journey. In the same column below Bandhan It's Minhazur Rahman Tamim , he is such a person who knows me the best and we grew together. From the playground of our kindergarten school to the field of Amirjan College he was one and only person who cheered me up later my Mom. Alock , Anoy , Saikat datta all of them are special peronals in my tiny life. Riyad and Tashrif are my college friends, I can't envision a day without them in my College period. And last but not least Afifa my cordial sister and Ammu , they are the reason I'm breathing. They let me believe that life is full of surprises. And My Dad without whom I'm nothing , my owner , my love , my everything. Here you go. You know me know , Right! 
 
-  Welcome to my Profile There  
+    Welcome to my Profile There  
 
 ![My deeds](./developer.svg)
 
